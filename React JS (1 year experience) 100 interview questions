@@ -1,0 +1,101 @@
+React JS (1 year experience) 100 interview questions
+
+What is React JS?
+How does React JS differ from other front-end libraries?
+What are the key features of React JS?
+How do you set up a new React project?
+What is JSX and why is it important in React?
+What is the difference between state and props in React?
+How do you handle events in React?
+What are the different lifecycle methods of a React component?
+How do you create a reusable component in React?
+What is a Higher Order Component (HOC) in React?
+What are the benefits of using HOCs?
+How do you handle data flow in React?
+What is the difference between controlled and uncontrolled components in React?
+How do you handle form submission in React?
+How do you implement client-side routing in React?
+What is Redux and how does it work with React?
+How do you integrate third-party libraries with React?
+What is the significance of keys in React?
+How do you optimize performance in React?
+What is the Virtual DOM in React?
+How does React handle server-side rendering?
+What are the benefits of server-side rendering in React?
+How do you handle errors in React?
+What are React hooks and how do they work?
+What are the most commonly used hooks in React?
+How do you write tests for React components?
+What is the difference between shallow rendering and full rendering in React testing?
+How do you debug a React application?
+How do you handle asynchronous operations in React?
+How do you implement pagination in React?
+What is the difference between React and Angular?
+What is the difference between React and Vue?
+What is the difference between React and jQuery?
+What is the difference between React and Ember?
+What is the difference between React and Backbone?
+What is the difference between React and Knockout?
+What are some best practices for writing React code?
+How do you ensure code quality in a React project?
+What is the difference between stateful and stateless components in React?
+How do you handle conditional rendering in React?
+How do you handle forms in React?
+How do you handle asynchronous data loading in React?
+What is the difference between React and React Native?
+What are the benefits of using React Native for mobile development?
+What are some limitations of React Native?
+How do you handle platform-specific code in React Native?
+How do you handle navigation in a React Native application?
+How do you handle styling in React Native?
+How do you handle debugging in React Native?
+What is the difference between React and AngularJS?
+What is the difference between React and Angular 2+?
+How do you handle user authentication in React?
+How do you handle user authorization in React?
+How do you handle data validation in React?
+What is the difference between React and jQuery Mobile?
+What is the difference between React and Ionic?
+What is the difference between React and Xamarin?
+What is the difference between React and Flutter?
+What is the difference between React and NativeScript?
+How do you handle state management in a React application?
+What are some popular state management libraries used with React?
+How do you handle animations in React?
+How do you handle internationalization in React?
+What is the difference between React and Backbone.js?
+How do you handle server-side rendering with React and Node.js?
+What is the React context API and how do you use it?
+How do you handle code splitting in a React application?
+What is the difference between server-side rendering and client-side rendering in React?
+How do you handle lazy loading of components in a React application?
+How do you handle dependency injection in a React application?
+What is the difference between a functional component and a class component in React?
+How do you handle testing for React components that use external dependencies?
+What is the difference between a presentational component and a container component in React?
+How do you handle performance issues when rendering large lists in React?
+How do you handle server-side rendering with React and ASP.NET?
+What is the difference between React and Angular Material?
+How do you handle code reusability in a React application?
+What is the difference between React and Vue.js?
+How do you handle server-side rendering with React and PHP?
+How do you handle dynamic imports in a React application?
+What is the difference between React and Ember.js?
+How do you handle form validation in React?
+What is the difference between React and Backbone.js?
+How do you handle authentication in a React application?
+How do you handle authorization in a React application?
+What is the difference between React and Angular Material Design?
+How do you handle routing in a React application?
+How do you handle global state management in a React application?
+What is the difference between React and Knockout.js?
+How do you handle server-side rendering with React and Ruby on Rails?
+What is the difference between React and Backbone.js?
+How do you handle internationalization in a React application?
+How do you handle server-side rendering with React and Django?
+How do you handle server-side rendering with React and Laravel?
+What is the difference between React and Svelte?
+How do you handle server-side rendering with React and Express.js?
+What is the difference between React and AngularUI?
+How do you handle server-side rendering with React and Spring Boot?
+What is the difference between React and Meteor?
