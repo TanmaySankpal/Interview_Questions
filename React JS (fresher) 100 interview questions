@@ -1,0 +1,102 @@
+100 interview questions for React JS as a fresher:
+
+What is React JS?
+What are the advantages of using React JS?
+What is the difference between React JS and other JavaScript frameworks?
+Explain the Virtual DOM concept in React JS?
+What is JSX?
+How do you create a React component?
+What is state in React JS?
+What is props in React JS?
+What is the difference between state and props?
+What is the difference between class component and functional component in React JS?
+What are React hooks?
+Explain useState hook.
+Explain useEffect hook.
+What is React router?
+What is Redux?
+Explain the difference between Redux and React context API.
+What is the purpose of mapDispatchToProps and mapStateToProps functions?
+What is Redux Thunk?
+What is Redux Saga?
+What is the significance of keys in React?
+Explain the difference between shallow and deep rendering in React.
+What is React Native?
+How does React Native differ from React JS?
+What is the difference between a controlled and uncontrolled component in React?
+Explain the use of refs in React.
+How do you pass data between parent and child components in React?
+Explain the use of Higher Order Components (HOC) in React.
+What is a Pure Component in React?
+What is a React Fragment?
+Explain the lifecycle methods of React component.
+What is the significance of the render() method in React?
+What is the significance of the componentDidMount() method in React?
+What is the significance of the componentDidUpdate() method in React?
+What is the significance of the componentWillUnmount() method in React?
+What is the significance of the shouldComponentUpdate() method in React?
+What is the significance of the getDerivedStateFromProps() method in React?
+What is the significance of the getSnapshotBeforeUpdate() method in React?
+What is React testing library?
+Explain the difference between snapshot testing and component testing in React.
+What is Jest?
+What is the purpose of PropTypes in React?
+Explain the difference between React and Angular.
+What is a Promise in React?
+What is Error Boundary in React?
+What is Server-Side Rendering (SSR) in React?
+Explain the difference between server-side rendering and client-side rendering in React.
+What is an Event in React?
+What is the significance of SyntheticEvent in React?
+What is the purpose of React.cloneElement?
+What is the purpose of the key attribute in React?
+What is the purpose of dangerouslySetInnerHTML in React?
+Explain the difference between component and PureComponent in React.
+What is a higher-order component?
+What is a render prop?
+What is the purpose of defaultProps in React?
+What is the purpose of React.memo()?
+What is the purpose of React.lazy()?
+What is the purpose of React.Suspense?
+What is the significance of Fragments in React?
+What is the significance of PropTypes?
+What is the purpose of componentDidCatch() in React?
+What is the difference between componentWillMount() and componentDidMount() in React?
+What is the purpose of shouldComponentUpdate() in React?
+What is the difference between shallow and mount rendering?
+What is the significance of defaultProps in React?
+What is the purpose of getDerivedStateFromProps() in React?
+What is the difference between state and props
+What is the purpose of setState() in React?
+What is the significance of the this keyword in React?
+What is the purpose of the setState() callback function in React?
+What is the significance of the constructor function in React?
+What is the significance of the super keyword in React?
+What is the purpose of the event object in React?
+What is the difference between controlled and uncontrolled components in React?
+What is the significance of the ref attribute in React?
+What is the purpose of forwardRef in React?
+What is the difference between server-side rendering and client-side rendering in React?
+What is the purpose of the React Developer Tools?
+What is the purpose of the React Context API?
+What is the purpose of the useContext() hook in React?
+What is the purpose of the useMemo() hook in React?
+What is the purpose of the useCallback() hook in React?
+What is the purpose of the useRef() hook in React?
+What is the purpose of the useReducer() hook in React?
+What is the purpose of the useContext() hook in React?
+What is the purpose of the useLayoutEffect() hook in React?
+What is the purpose of the useEffect() hook in React?
+What is the purpose of the useState() hook in React?
+What is the purpose of the useEffect() hook in React?
+What is the purpose of the useMemo() hook in React?
+What is the purpose of the useCallback() hook in React?
+What is the purpose of the useReducer() hook in React?
+What is the purpose of the useContext() hook in React?
+What is the purpose of the useLayoutEffect() hook in React?
+What is the purpose of the useEffect() hook in React?
+What is the purpose of the useState() hook in React?
+What is the purpose of the useMemo() hook in React?
+What is the purpose of the useCallback() hook in React?
+What is the purpose of the useReducer() hook in React?
+What is the purpose of the useContext() hook in React?
