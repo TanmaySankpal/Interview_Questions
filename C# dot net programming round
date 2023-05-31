@@ -1,0 +1,29 @@
+Q1.Reverse a String: Write a program to reverse a given string.
+
+Q2.Factorial of a Number: Write a program to calculate the factorial of a given number.
+
+Q3.Fibonacci Series: Write a program to generate the Fibonacci series up to a certain number of terms.
+
+Q4.Palindrome Check: Write a program to check if a given string is a palindrome.
+
+Q5.Prime Number Check: Write a program to check if a given number is prime or not.
+
+Q6.Array Operations: Write a program to perform various operations on an array, such as finding the maximum element, minimum element, sum, and average.
+
+Q7.Sorting Algorithms: Implement different sorting algorithms like bubble sort, insertion sort, and merge sort.
+
+Q8.Binary Search: Write a program to perform a binary search on a sorted array.
+
+Q9.Matrix Operations: Write programs to perform operations on matrices, such as matrix addition, multiplication, and transposition.
+
+Q10.Linked List: Implement a linked list data structure and write programs to perform operations like insertion, deletion, and traversal.
+
+Q11.Stack Implementation: Implement a stack data structure and write programs to perform push, pop, and peek operations.
+
+Q12.Queue Implementation: Implement a queue data structure and write programs to perform enqueue, dequeue, and peek operations.
+
+Q13.File Handling: Write a program to read from and write to a file, perform file operations like copying, moving, and deleting files.
+
+Q14.Exception Handling: Write a program that demonstrates the use of try-catch blocks to handle exceptions.
+
+Q15.Object-Oriented Programming: Write a program that demonstrates concepts of object-oriented programming, such as inheritance, encapsulation, and polymorphism.
